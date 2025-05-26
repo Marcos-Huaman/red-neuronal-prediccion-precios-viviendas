@@ -57,13 +57,6 @@ Se elaboró una base conceptual sólida sobre redes neuronales, regresión linea
   
 ---
 
-## 📌 Conclusiones
-- Las **redes neuronales** presentan una gran ventaja en problemas multivariables y no lineales.
-- **Regresión lineal** sigue siendo útil como punto de partida, pero tiene limitaciones con datos complejos.
-- El uso de herramientas como **GitHub** es clave para documentar, controlar versiones y presentar proyectos profesionales.
-- Este proyecto representa una introducción completa al flujo de trabajo en proyectos de ciencia de datos: análisis, modelado, validación y presentación.
----
-
 ## 💻 Tecnologías Utilizadas
 
 - [Python 3.12](https://www.python.org/)
@@ -73,5 +66,5 @@ Se elaboró una base conceptual sólida sobre redes neuronales, regresión linea
 - [Pandas](https://pandas.pydata.org/)
 - [Git + GitHub](https://github.com/)
 ---
-## 📁 Estructura del Proyecto
--link Colab: https://colab.research.google.com/drive/1B9ZkKbWCigJVNidvN6fgObj8C7CaC13j?usp=sharing
+## 📁 Colab
+-link : https://colab.research.google.com/drive/1B9ZkKbWCigJVNidvN6fgObj8C7CaC13j?usp=sharing
