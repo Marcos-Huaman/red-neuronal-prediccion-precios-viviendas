@@ -74,3 +74,4 @@ Se elaboró una base conceptual sólida sobre redes neuronales, regresión linea
 - [Git + GitHub](https://github.com/)
 ---
 ## 📁 Estructura del Proyecto
+-link Colab: https://colab.research.google.com/drive/1B9ZkKbWCigJVNidvN6fgObj8C7CaC13j?usp=sharing
